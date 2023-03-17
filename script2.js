@@ -167,7 +167,7 @@ function twoZadanieD(array3) {
 }
 twoZadanieD(array3);
 
-//  zadanie e (wroc do tego jeszcze)
+//  zadanie e 
 
 let testPerson = {
   name: "Jan",
@@ -233,7 +233,7 @@ function twoZadanieH(number) {
 }
 twoZadanieH(20);
 
-// *zadanie i ( Math.floor i Math.random() do nauki)
+// *zadanie i 
 
 function twoZadanieI() {
   console.log("Zadanie i\n");
@@ -548,7 +548,8 @@ function fourZadanieC() {
   console.log(femalePeople);
 }
 fourZadanieC();
-// zadanie d ( split(), slice(), sort(), map(), charAt(), toLowerCase(), toUpperCase())
+
+// zadanie d 
 
 const shopping =
   "kawa MaSŁo chleb WODA ogórki jabłka Ziemniaki chipsy salcesoN wędLIna pieczarki Włoszczyzna heRBata truskawKi maliny";
